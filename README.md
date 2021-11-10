@@ -2,15 +2,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description 
+This is a Node.js application called Note Taker that can be used to write, save, and delete notes.
 
-
+Link to deployed app:
+🔗https://dry-basin-28521.herokuapp.com/
 ## Table of Contents
-* [Usage](#usage)
 * [License](#license)
 * [Questions](#questions)
-
-## Usage
-
 
 ## License
 🔗https://opensource.org/licenses/MIT
